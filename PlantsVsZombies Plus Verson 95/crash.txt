@@ -1,0 +1,26 @@
+Exception: Access Violation (code 0xc0000005) at address 65AEEDE1 in thread 25FC
+Module: nvd3dum.dll
+Logical Address: 0001:00B1DDE1
+
+00C2FD4C 65AEEDE1 QueryOglResource+211F81 [(Unknown File Name)(0)+0x00000000]
+Params: 0090C200 0090C050 00289000 00000000
+
+
+EAX:65AEEDE1 EBX:008221CC ECX:65AEEDE1 EDX:08857E40 ESI:0090C050 EDI:0000001A
+EIP:65AEEDE1 ESP:00C2FD50  EBP:00C2FD7C
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00010206
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.0.0.1051
+Time Loaded: 00:28:49
+Fullscreen: ·ñ
+Primary ThreadId: 3FE8
+Times Played: 0
+Build Num: 0
+Build Date: 
+
