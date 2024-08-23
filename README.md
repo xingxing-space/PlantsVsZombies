@@ -1,2 +1,2 @@
-# Plants-vs.-Zombies
+# Plants vs. Zombies
 Plants vs. Zombies
